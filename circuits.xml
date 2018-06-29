@@ -6,14 +6,13 @@
     <logo>https://raw.githubusercontent.com/bacus99/Services/screeshots/services.png</logo>
     <description>
         <short>
-            <en><![CDATA[This plugin allow adding informations to services based on ITIL concepts (DR, Owner, communications)]]></en>
+            <en><![CDATA[Manage Telecom circuits for your company over multi-sites]]></en>
         </short>
         <long>
             <en><![CDATA[
-# Services (GLPI)
-This plugin allow adding informations to services based on ITIL concepts (DR, Owner, communications)
+# Circuits (GLPI)
+Manage Telecom circuits for your company over multi-sites
 # Installation (EN)
- * Uncompress the archive to the `<GLPI_ROOT>/plugins/services` directory
  * Navigate to the Configuration > Plugins page,
  * Install and activate the plugin.
 ]]></en>

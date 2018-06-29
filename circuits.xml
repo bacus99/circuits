@@ -3,7 +3,21 @@
             <key>Telecom Circuits</key>
             <state>beta</state> <!-- stable | unstable | beta | alpha -->
             <logo>https://raw.githubusercontent.com/bacus99/Services/screeshots/services.png</logo>
-            <description>
+    <description>
+        <short>
+            <en><![CDATA[Manage telecom circuits for multiple sites]]></en>
+        </short>
+        <long>
+            <en><![CDATA[
+# Circuits (GLPI)
+This plugin allow you to manage telecom circuits for multiple sites, associate tickets and network devices
+# Installation (EN)
+ * Navigate to the Configuration > Plugins page,
+ * Install and activate the plugin.
+]]></en>
+        </long>
+    </description>
+	<description>
                <short>
                   <en>Manage telecom circuits for multiple sites</en>
                   <lang>...</lang>

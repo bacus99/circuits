@@ -1,0 +1,46 @@
+<root>
+            <name>Circuits</name>
+            <key>Telecom Circuits</key>
+            <state>beta</state> <!-- stable | unstable | beta | alpha -->
+            <logo>https://raw.githubusercontent.com/bacus99/Services/screeshots/services.png</logo>
+            <description>
+               <short>
+                  <en>Manage telecom circuits for multiple sites</en>
+                  <lang>...</lang>
+               </short>
+               <long>
+                  <en>This plugin allow you to manage telecom circuits for multiple sites, associate tickets and network devices</en>
+                  <lang>...</lang>
+               </long>
+            </description>
+            <homepage>https://github.com/bacus99/circuits</homepage>
+            <download>https://github.com/bacus99/circuits</download>
+            <issues>https://github.com/bacus99/circuits/issues</issues>
+            <readme>https://github.com/bacus99/circuits/blob/master/README.md</readme>
+            <authors>
+               <author>Bacus99</author>
+            </authors>
+            <versions>
+               <version>
+                  <num>1.0</num>
+                  <compatibility>9.2+</compatibility>
+               </version>
+            </versions>
+            <langs>
+               <lang>en_GB</lang>
+               <lang>...</lang>
+            </langs>
+            <license>GPL v2+</license>
+            <tags>
+               <en>
+                  <tag>telecom</tag>
+               </en>
+               <lang>
+                  <tag>circuits</tag>
+               </lang>
+            </tags>
+            <screenshots>
+               <screenshot>https://github.com/bacus99/circuits/blob/master/screenshot/circuits.png</screenshot>
+               <screenshot>...</screenshot>
+            </screenshots>
+         </root>
